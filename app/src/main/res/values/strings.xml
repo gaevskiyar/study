@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="tv_text">new text</string>
+    <string name="bt1_text">Click 1</string>
+    <string name="bt2_text">Click 2</string>
+    <string name="bt3_text">Click 3</string>
+    <string name="toast_text">Toast!!!</string>
+    <string name="dlg_msg">London is the capital of Great Britain</string>
+</resources>
